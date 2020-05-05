@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/shoot-the-moon-rick/precache-manifest.96c2e30d1715beabe501efcc790db2da.js"
+  "/shoot-the-moon-rick/precache-manifest.dc1d853dc7dfdbebeb48307d51b1f08d.js"
 );
 
 self.addEventListener('message', (event) => {
