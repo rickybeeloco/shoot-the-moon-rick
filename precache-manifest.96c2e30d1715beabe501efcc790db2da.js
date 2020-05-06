@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f56e036daec98b24fb875ba51569a587",
+    "revision": "5f921c7d1ec5206e59e56dc594346ca0",
     "url": "/shoot-the-moon-rick/index.html"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/shoot-the-moon-rick/static/js/2.7c64cff7.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "4febf1bf8c44fae42c42",
-    "url": "/shoot-the-moon-rick/static/js/main.c787611a.chunk.js"
+    "revision": "583b5df6d9b502cb82d3",
+    "url": "/shoot-the-moon-rick/static/js/main.35a27d00.chunk.js"
   },
   {
     "revision": "f604d1ab0111845fe3ff",
